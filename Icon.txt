@@ -1,0 +1,7 @@
+ICON : Tempat nyari2 icon buat website
+----------------------------------------------------------------------------------------
+- Font Awesome http://fontawesome.io/
+- Icon Finder https://www.iconfinder.com/
+- Icons8 https://icons8.com/
+- Flaticon http://www.flaticon.com/
+- iconmonstr http://iconmonstr.com/

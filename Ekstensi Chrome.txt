@@ -1,0 +1,17 @@
+CHROME EXTENSION
+----------------------------------------------------------------------------------------
+- Piktab
+deskripsi : extension yang menurut ane keren... saat nginstall extension ini, default Home Page agan bakal berubah menjadi Home Page yang banyak resource untuk desain web. Selain itu, bakalan muncul juga menu untuk cari icon, vector, sketch dengan mudah
+link : https://chrome.google.com/webstore/detail/piktab/nkhjnpgcnmdpeikbeegmibjcfjpamjnp?hl=en
+- Page Ruler
+deskripsi : suka ane pake buat ngukur lebar layout website, satuan yang dipakenya PX.
+link : https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn?hl=en
+- Web Developer
+deskripsi : toolbar yang isinya tool web developer (berguna banget). Ada banyak pilihan, contohnya untuk disable javascript, disable css, Jadi, agan bisa ngedebug dengan cepat.
+link : https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm
+- Window Resizer
+deskripsi : extensions untuk ngetest website di macam2 device dengan cepat.
+link : https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en
+- Nimbus Screenshoot
+deskripsi : untuk ngambil gambar / screenshoot halaman web. Sebenernya ada banyak extensions buat screenshooot. Tapi kalo ane suka yang ini !
+link : https://chrome.google.com/webstore/detail/nimbus-screenshot-and-scr/bpconcjcammlapcogcnnelfmaeghhagj?hl=en
